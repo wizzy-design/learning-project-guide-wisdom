@@ -65,3 +65,4 @@ Switched to a new branch 'john-doe'
 - [Nathan Somto](https://github.com/Nathan-Somto)
 - [Fumnanya Mowete](https://github.com/poopsicles)
 - [Mac-Asore David Edafe](https://github.com/Macasore)
+- [Egbejule Eworitse](https://github.com/EbiScott)
